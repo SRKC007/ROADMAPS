@@ -1,0 +1,92 @@
+
+                                                          7-9 Weeks of AWS DevOps deep boot camp of 2025
+
+
+
+**🔴 1. Introduction**
+   - ✅ What is Cloud Computing?
+   - ⭐ IaaS vs PaaS vs SaaS
+   - 🔷 Public vs Private vs Hybrid Cloud
+   - 🔶 Introduction to AWS
+   - 💠 AWS Global Infrastructure
+   - 🔺 Shared Responsibility Model
+   - 🟢 Well-Architected Framework
+
+**🟢 2. EC2 (Compute)**
+   - ✅ Instance Types
+   - ⭐ CPU Credits
+   - 🔷 Storage and Volumes
+   - 🔶 Keypairs
+   - 💠 Elastic IP
+   - 🔺 User Data Scripts
+   - 🟢 Purchasing Options
+
+**🟣 3. VPC (Networking Layer)**
+   - ✅ CIDR Blocks
+   - ⭐ Subnets
+     - 🔶 Public Subnet
+     - 🔷 Private Subnet
+   - 💠 Route Tables
+   - 🔺 Security Groups
+   - ✅ Internet Gateway
+   - ⭐ NAT Gateway
+
+**🟠 4. IAM (Access Control for All Services)**
+   - ✅ Policies
+     - 🔷 Identity-Based
+     - 🔶 Resource-Based
+   - 💠 Users/User Groups
+   - 🔺 Roles
+     - ⭐ Instance Profiles
+     - ✅ Assuming Roles
+
+**🔵 5. Auto-Scaling**
+   - ✅ AMIs
+   - ⭐ Launch Templates
+   - 🔷 Auto-Scaling Groups
+   - 🔶 Scaling Policies
+   - 💠 Elastic Load Balancers
+
+**🟢 6. S3 (Object Storage)**
+   - ✅ Buckets / Objects
+   - ⭐ Buckets / Objects Lifecycle
+   - 🔷 Storage Types (Standard, S3-IA, Glacier)
+
+**🟡 7. SES (Simple Email Service)**
+   - ✅ Sandbox/Sending Limits
+   - ⭐ Identity Verification
+   - 🔷 DKIM Setup
+   - 🔶 Feedback Handling
+   - 💠 Configuration Sets
+   - 🔺 Sender Reputation
+   - 🟢 Dedicated IP
+
+**🔴 8. Route53 (DNS & Routing)**
+   - ✅ Hosted Zones (Private and Public)
+   - ⭐ Routing Policies
+   - 🔷 Health Checks
+
+**🔵 9. RDS (Managed Databases)**
+   - ✅ DB Instances
+   - ⭐ Storage Types (General Purpose, Provisioned IOPS, Magnetic)
+   - 🔷 Backup/Restore
+
+**🟢 10. DynamoDB (NoSQL Database)**
+   - ✅ Tables / Items / Attributes
+   - ⭐ Primary Keys / Secondary Indexes
+   - 🔷 Data Modeling and Streams
+   - 🔶 Capacity Settings and Limits
+   - 💠 DynamoDB Local
+   - 🔺 Backup/Restore
+
+**🟡 11. Monitoring**
+   - **🟠 Part 1:** CloudWatch (Metrics, Alarms, Logs)
+     - ✅ Metrics
+     - ⭐ Events
+     - 🔷 Logs
+   - **🟡 Part 2:** CloudFront (CDN)
+     - ✅ Distributions
+     - ⭐ Policies
+     - 🔷 Invalidations
+
+

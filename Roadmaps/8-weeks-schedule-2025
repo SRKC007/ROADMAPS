@@ -1,13 +1,17 @@
-📅 2-Month DevOps & AWS Learning Plan  
-----------------------------------------
-⏳ Daily: 2-3 hours of learning & practice  
 
+
+📅 2-Month DevOps & AWS Learning Plan  
+---------------------------------------------------------------
+Before Go with the plan carefully read the AWS-ROADMAP.txt file 
+---------------------------------------------------------------
+⏳ Daily: 2-3 hours of learning & practice  
+--------------------------------------------------------------
 🟢 Month 1: AWS Fundamentals & Core Services  
-----------------------------------------
+--------------------------------------------------------------
 📌 Week 1: Cloud & Compute Basics  
 ✅ Day 1-2: Cloud Computing & AWS Basics  
 ✅ Day 3-4: EC2 (Compute)  
-✅ Day 5-6: VPC (Networking)  
+✅ Day 5-6: VPC (Networking) ( Just Go with the basics )
 ✅ Day 7: Hands-on Practice (EC2 in VPC)  
 
 📌 Week 2: AWS Storage Services  
